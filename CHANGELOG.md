@@ -1,5 +1,11 @@
 # @melt-ui/svelte
 
+## 0.33.1
+
+### Patch Changes
+
+- 7fd917c1: change tabs autoSet behaviour
+
 ## 0.33.0
 
 ### Minor Changes
